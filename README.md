@@ -1,16 +1,12 @@
-# mobile_cv_application
+# mobile cv application
 
-A new Flutter project.
+This is Task-2 of HNG internship. It is a Mobile Application serving as a comprehensive cv.
 
-## Getting Started
+- The first step is to install the app,
+- After installing and open the app you are going to see a page containing my full name, my slack user name, a github handle and a brief personal biography.
+- On the same page we have a button labelled "Edit information" which redirectes you to a new page where you can edit information provided on the previous page.
+- The second page contains different text fields to edit information and a button labelled "Save" which automatically update the previous page with new provided data.
 
-This project is a starting point for a Flutter application.
+Please check out the appetize behavior [here.](https://appetize.io/app/zeea2vxs4cvijylau3l2wv5onq)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+I am looking forward to your good feedback. Thank you.

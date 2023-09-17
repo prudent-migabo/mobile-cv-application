@@ -73,9 +73,9 @@ class _HomeScreenState extends State<HomeScreen> {
                       slackUsername: slackUsername,
                     ))).then((value){
                       setState(() {
-                        fullName = value["fullName"];
-                        slackUsername = value["slackUsername"];
-                        biography = value["biography"];
+                        fullName = value["fullName"] ?? '';
+                        slackUsername = value["slackUsername"] ?? '';
+                        biography = value["biography"] ?? '';
                       });
                    });
                   },
